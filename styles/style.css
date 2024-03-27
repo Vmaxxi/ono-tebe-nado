@@ -257,11 +257,6 @@ footer {
     grid-template-columns:  1fr 1fr 1fr;
 }
 
-.footer__address{ 
-    
-    
-}
-
 .footer__menu {
     justify-self: center;
     text-align: center;
